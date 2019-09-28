@@ -15,5 +15,7 @@ def main():
 
     num = 500
 
+    num6 = 600
+
 if __name__ == "__main__":
     main()
